@@ -3,13 +3,13 @@
   const {catpics} = data;
 </script>
 
-<article>
+<!-- <article>
   {#each catpics as { caption }}
   <figure>
     <img src="https://cataas.com/cat/says/{caption}" alt="">
   </figure>
   {/each}
-</article>
+</article> -->
 
 
 <style>
